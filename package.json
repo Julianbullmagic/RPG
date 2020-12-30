@@ -1,0 +1,14 @@
+{
+  "name": "phaser_rpg-coursefiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@geckos.io/phaser-on-nodejs": "^1.2.3"
+  }
+}
